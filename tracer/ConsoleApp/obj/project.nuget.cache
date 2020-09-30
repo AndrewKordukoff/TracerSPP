@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "rwACdOkTGAbwyQ4YwZmkgPTWrZm9xF3PxgA5LqI1aaAa7UZA4dZkgT+D3fNb82ut1QqMqJETR8PpaSymYajrlQ==",
+  "success": true,
+  "projectFilePath": "/Users/kordukoff/Desktop/5 сем/спп/tracer/ConsoleApp/ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/kordukoff/.nuget/packages/microsoft.netcore.app/2.2.0/microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "/Users/kordukoff/.nuget/packages/microsoft.netcore.dotnetapphost/2.2.0/microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "/Users/kordukoff/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.2.0/microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "/Users/kordukoff/.nuget/packages/microsoft.netcore.dotnethostresolver/2.2.0/microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "/Users/kordukoff/.nuget/packages/microsoft.netcore.platforms/2.2.0/microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "/Users/kordukoff/.nuget/packages/microsoft.netcore.targets/2.0.0/microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "/Users/kordukoff/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

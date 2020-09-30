@@ -1,0 +1,38 @@
+/Users/dimavi_ka/RiderProjects/Tracer/TestProject1/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/dimavi_ka/RiderProjects/Tracer/TestProject1/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/dimavi_ka/RiderProjects/Tracer/TestProject1/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/dimavi_ka/RiderProjects/Tracer/TestProject1/bin/Debug/netcoreapp2.2/TestProject1.deps.json
+/Users/dimavi_ka/RiderProjects/Tracer/TestProject1/bin/Debug/netcoreapp2.2/TestProject1.runtimeconfig.json
+/Users/dimavi_ka/RiderProjects/Tracer/TestProject1/bin/Debug/netcoreapp2.2/TestProject1.runtimeconfig.dev.json
+/Users/dimavi_ka/RiderProjects/Tracer/TestProject1/bin/Debug/netcoreapp2.2/TestProject1.dll
+/Users/dimavi_ka/RiderProjects/Tracer/TestProject1/bin/Debug/netcoreapp2.2/TestProject1.pdb
+/Users/dimavi_ka/RiderProjects/Tracer/TestProject1/bin/Debug/netcoreapp2.2/ConsoleApp.dll
+/Users/dimavi_ka/RiderProjects/Tracer/TestProject1/bin/Debug/netcoreapp2.2/Tracer.dll
+/Users/dimavi_ka/RiderProjects/Tracer/TestProject1/bin/Debug/netcoreapp2.2/ConsoleApp.pdb
+/Users/dimavi_ka/RiderProjects/Tracer/TestProject1/bin/Debug/netcoreapp2.2/Tracer.pdb
+/Users/dimavi_ka/RiderProjects/Tracer/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.csprojAssemblyReference.cache
+/Users/dimavi_ka/RiderProjects/Tracer/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.csproj.CoreCompileInputs.cache
+/Users/dimavi_ka/RiderProjects/Tracer/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.AssemblyInfoInputs.cache
+/Users/dimavi_ka/RiderProjects/Tracer/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.AssemblyInfo.cs
+/Users/dimavi_ka/RiderProjects/Tracer/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.csproj.CopyComplete
+/Users/dimavi_ka/RiderProjects/Tracer/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.dll
+/Users/dimavi_ka/RiderProjects/Tracer/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.pdb
+/Users/kordukoff/Desktop/5 сем/спп/tracer/TestProject1/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/kordukoff/Desktop/5 сем/спп/tracer/TestProject1/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/kordukoff/Desktop/5 сем/спп/tracer/TestProject1/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/kordukoff/Desktop/5 сем/спп/tracer/TestProject1/bin/Debug/netcoreapp2.2/TestProject1.deps.json
+/Users/kordukoff/Desktop/5 сем/спп/tracer/TestProject1/bin/Debug/netcoreapp2.2/TestProject1.runtimeconfig.json
+/Users/kordukoff/Desktop/5 сем/спп/tracer/TestProject1/bin/Debug/netcoreapp2.2/TestProject1.runtimeconfig.dev.json
+/Users/kordukoff/Desktop/5 сем/спп/tracer/TestProject1/bin/Debug/netcoreapp2.2/TestProject1.dll
+/Users/kordukoff/Desktop/5 сем/спп/tracer/TestProject1/bin/Debug/netcoreapp2.2/TestProject1.pdb
+/Users/kordukoff/Desktop/5 сем/спп/tracer/TestProject1/bin/Debug/netcoreapp2.2/ConsoleApp.dll
+/Users/kordukoff/Desktop/5 сем/спп/tracer/TestProject1/bin/Debug/netcoreapp2.2/Tracer.dll
+/Users/kordukoff/Desktop/5 сем/спп/tracer/TestProject1/bin/Debug/netcoreapp2.2/ConsoleApp.pdb
+/Users/kordukoff/Desktop/5 сем/спп/tracer/TestProject1/bin/Debug/netcoreapp2.2/Tracer.pdb
+/Users/kordukoff/Desktop/5 сем/спп/tracer/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.csprojAssemblyReference.cache
+/Users/kordukoff/Desktop/5 сем/спп/tracer/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.AssemblyInfoInputs.cache
+/Users/kordukoff/Desktop/5 сем/спп/tracer/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.AssemblyInfo.cs
+/Users/kordukoff/Desktop/5 сем/спп/tracer/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.csproj.CoreCompileInputs.cache
+/Users/kordukoff/Desktop/5 сем/спп/tracer/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.csproj.CopyComplete
+/Users/kordukoff/Desktop/5 сем/спп/tracer/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.dll
+/Users/kordukoff/Desktop/5 сем/спп/tracer/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.pdb

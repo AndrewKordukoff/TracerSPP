@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a55502bc-26d1-4045-a9da-d241c9db2435" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/373633F1-0A13-481C-9BDC-942CE0B47C22/2a/f92cfe24/Stopwatch.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/B071342F-767B-4DC5-8A46-EB98DE80A40E/A/ConcurrentStack.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tracer/tracer/Tracer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestProject1/test/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tracer/tracer/Method.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6190FF42-D976-4D48-A608-F14E63B91805/F3/Stacktrace.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC508952-C93B-4484-B143-1E46E4294963/3b/78211edd/Thread.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TestProject1/test/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp/output/FileOutPut.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp/output/ConsoleOutPut.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp/output/IOutputTracerResult.cs" />
+        <option value="$PROJECT_DIR$/Tracer/serialization/ISerializeTracerResult.cs" />
+        <option value="$PROJECT_DIR$/Tracer/serialization/JsonSerialize.cs" />
+        <option value="$PROJECT_DIR$/Tracer/serialization/XmlSerialize.cs" />
+        <option value="$PROJECT_DIR$/Tracer/tracer/ITracer.cs" />
+        <option value="$PROJECT_DIR$/Tracer/tracer/Method.cs" />
+        <option value="$PROJECT_DIR$/Tracer/tracer/MyThread.cs" />
+        <option value="$PROJECT_DIR$/Tracer/tracer/ThreadInfo.cs" />
+        <option value="$PROJECT_DIR$/Tracer/tracer/Tracer.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i8fYJCbVFuWDHLYS8JYAeoyIHt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a55502bc-26d1-4045-a9da-d241c9db2435" name="Default Changelist" comment="" />
+      <created>1601294186688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601294186688</updated>
+      <workItem from="1601294192416" duration="973000" />
+      <workItem from="1601344569279" duration="853000" />
+      <workItem from="1601406310865" duration="7854000" />
+      <workItem from="1601432841069" duration="241000" />
+      <workItem from="1601433149099" duration="2000" />
+      <workItem from="1601484092643" duration="26000" />
+      <workItem from="1601498154881" duration="287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="89" key="SettingsEditor" timestamp="1601344127117">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1601344127117" />
+  </component>
+</project>
